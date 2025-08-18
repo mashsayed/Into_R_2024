@@ -29,6 +29,8 @@ Do you remember my grade example from the first chapter?
 
 ```{r}
 
+#inputting a grade
+
 grade <- 1.7
 
 if (grade == 1.0) {
